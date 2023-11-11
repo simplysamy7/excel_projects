@@ -29,6 +29,20 @@ Tools, Formulae or Functions used: Filtering (Top 10 criteria), mathematical for
 
 Dataset: Contained details on film, genre, cast, director, duration.
 
-Analysis: 
+Cleaning: Removal of duplicates, deltion of blanks and nulls, removing inconsistent punctuation in values.
+
+Analysis: No. of movies in a year, most and least rated movies, most and least voted movies.
+
+Tools, functions and Formulae used: Pivot tables, charts, filtering, mathematical functions like sum, average.
+
+**Coffee Datset Analysis**
+
+Datset: data on orders, customer details, order details, types of coffes, different coffe roast,, quantities sold.
+
+Cleaning and Profiling: If-else statement, Vlookup functions, checking for duplicates, calculating sales by multiplying quantity with price.
+
+Analysis: Sales over years according to coffee type, sales by country and product_id. Adding slicers of variables like roast type, size, order date.
+
+Tools, functions and Formulae: Mathematical functions, slicers and pivot tables and pivot charts.
 
 
