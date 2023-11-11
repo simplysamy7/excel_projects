@@ -17,7 +17,7 @@ Analysis: It analyzed purchases based on gender, income and age; relationship be
 
 Tools used: The cleanup and analysis and visualization was done on MS Excel. I used pivot tables, pivot charts, created dahsboard and inserted slicers in the dahsboard to make it more interactive.
 
-**Pizza Shop Data Analysis**
+**3.Pizza Shop Data Analysis**
 
 Dataset: Data on orders, order details, pizzas, pizza types
 
@@ -25,7 +25,7 @@ Analysis: Fidning out the best selling pixxas, the peak hours of the day, season
 
 Tools, Formulae or Functions used: Filtering (Top 10 criteria), mathematical formulas like average, pivot tables and pivot charts.
 
-**IMDB Movies Data Analysis**
+**4.IMDB Movies Data Analysis**
 
 Dataset: Contained details on film, genre, cast, director, duration.
 
@@ -35,7 +35,7 @@ Analysis: No. of movies in a year, most and least rated movies, most and least v
 
 Tools, functions and Formulae used: Pivot tables, charts, filtering, mathematical functions like sum, average.
 
-**Coffee Datset Analysis**
+**5.Coffee Datset Analysis**
 
 Datset: data on orders, customer details, order details, types of coffes, different coffe roast,, quantities sold.
 
